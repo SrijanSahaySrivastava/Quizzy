@@ -7,14 +7,12 @@ uses Gemini to answer your google form quiz
 1. Clone the repository by
 
 ```bash
-git clone https://github.com/cybersaksham/QuizGPT
+git clone ...
 ```
 
-2. Open `functions.js` and replace below line to put your OpenAI API Key which you can generate from https://platform.openai.com/account/api-keys
+2. Create an .env file and add the following
 
-```js
-const API_KEY = null;
-```
+`GOOGLE=your_google_API_key`
 
 3. Then go to `chrome://extensions/` in browser and turn on `Developer mode`
 
