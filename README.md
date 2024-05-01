@@ -18,7 +18,9 @@ git clone ...
 
 4. Click `Load Unpacked` and select the folder of the repository
 
-5. Your extension is ready to work on `docs.google.com/forms/...` sites
+5. Run the python server
+
+6. Your extension is ready to work on `docs.google.com/forms/...` sites
 
 ## Usage
 
